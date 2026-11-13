@@ -1,0 +1,23 @@
+[
+    {
+        "book_id": "01",
+        "book_name": "hi nanna",
+        "author": "nanna",
+        "category": "romantic",
+        "available_copies": 5
+    },
+    {
+        "book_id": "02",
+        "book_name": "attack on titan",
+        "author": "eren",
+        "category": "action",
+        "available_copies": 4
+    },
+    {
+        "book_id": "03",
+        "book_name": "ramayana",
+        "author": "valmiki",
+        "category": "religious",
+        "available_copies": 2
+    }
+]
